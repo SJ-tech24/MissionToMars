@@ -1,3 +1,4 @@
+
 Story 1
 
 -What went well
@@ -17,4 +18,5 @@ I am confused about what the round wire does
 -What I'll do to understand it better
 
 Look back on the course or research its purpose
+
 
