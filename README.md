@@ -38,4 +38,18 @@ I struggled making the variables work
 
 Read code more carefully
 
+Story 3
 
+-What went well
+
+I was able to understand and write the code
+
+
+-What didn't go well
+
+Connecting the circuits and making it work
+
+
+-What I'll do to understand it better
+
+Check how the circuit loops
